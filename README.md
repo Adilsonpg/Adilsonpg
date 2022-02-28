@@ -3,19 +3,20 @@
 ##
 
 <div> 
-  <p align="center">
-    <img align="right" height='130px' src="https://github-readme-stats.vercel.app/api?username=Adilsonpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
-  </p>
-  <p align="center">
-    <img  align="left" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsonpg&layout=compact&langs_count=7&theme=dark"/>
+  <p>
+    <img align="right" height='150px' src="https://github-readme-stats.vercel.app/api?username=Adilsonpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
+  </p> 
+  
+  <p>
+    <img  align="right" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsonpg&layout=compact&langs_count=7&theme=dark"/>
   </p>
 </div>
 <div>&nbsp</div>
   <div align='center'>
-   <img align="center" alt="Adilsonpg-Js" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-   <img align="center" alt="Adilsonpg-HTML" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Adilson-CSS" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="center" alt="Adilson-vs" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+   <img align="center" alt="Adilsonpg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+   <img align="center" alt="Adilsonpg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Adilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+   <img align="center" alt="Adilson-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 </div>
   
 <div>&nbsp</div>
