@@ -4,10 +4,10 @@
 
 <div> 
   <p align="center">
-    <img align="right" height='150px' src="https://github-readme-stats.vercel.app/api?username=Adilsonpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
+    <img align="right" height='100px' src="https://github-readme-stats.vercel.app/api?username=Adilsonpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
   </p>
   <p align="center">
-    <img  align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsonpg&layout=compact&langs_count=7&theme=dark"/>
+    <img  align="left" height='100px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilsonpg&layout=compact&langs_count=7&theme=dark"/>
   </p>
 </div>
 <div>&nbsp</div>
